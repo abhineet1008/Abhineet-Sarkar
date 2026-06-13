@@ -4,11 +4,12 @@ Digital Innovation and Emerging Tech Strategist with specializtaion in AI & Data
 
 ## Expertise
 
-* DIgital Innovation
+* Artificial Intelligence and Machine Learning
+* Digital Innovation in BFSI
 * AI Solution
 * Data Governance
 * Agentic AI and Workflows
-* Fintech
+* Fintech Solutions
 * DPDP Compliance and Data Privacy
 * Banking, Digital Payment, and Insurance Operations
 * GenAI Automation
