@@ -1,6 +1,13 @@
 # Hi, I'm Abhineet-Sarkar 👋
 
-Digital Innovation and Emerging Tech Strategist with specializtaion in AI & Data. Passionate about building 0-->1 practical solutions for BFSI, Governance and Operational Excellence.
+Technology and transformation leader with 15+ years of experience delivering enterprise-scale AI, digital, cloud,
+data, and transformation initiatives across insurance, banking, fintech, payments, and consulting organizations.
+Experienced in architecting AI-powered enterprise solutions integrating Large Language Models (LLMs) with
+enterprise data sources using Retrieval-Augmented Generation (RAG), semantic search, conversational AI,
+workflow automation, and agentic architectures. Strong expertise in enterprise integration, AI governance, API-led
+architectures, cloud-native solutions, data governance, and regulatory compliance.
+Proven ability to engage executive leadership, business stakeholders, regulators, and technology teams to define AI
+strategy, design enterprise architectures, and deliver measurable business outcomes.
 
 ## Expertise
 
